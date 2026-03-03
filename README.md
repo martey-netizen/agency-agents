@@ -166,8 +166,24 @@ The unique specialists who don't fit in a box.
 | 📬 [Report Distribution Agent](specialized/report-distribution-agent.md) | Automated report delivery | Territory-based report distribution, scheduled sends |
 
 ---
+### 🧭 Martey Ops Division (Community Extension)
+
+A mission-driven operational stack designed for investigative research, local journalism workflows, and accessibility-focused outreach campaigns.
+
+These agents coordinate structured research, editorial production, and verification processes for real-world projects.
+
+| Agent | Specialty | When to Use |
+|-------|-----------|-------------|
+| 🎬 Studio Chief | Mission orchestration, task planning | Starting any project or investigation |
+| 📈 Accessible Growth Strategist | Accessibility outreach, positioning, messaging | ADA/WCAG consulting campaigns, nonprofit outreach |
+| 🔎 Local Signal Hunter | Emerging issue discovery | Finding early signals in local communities |
+| 🗂 Field Research Operator | Evidence organization, timelines | Structuring messy research or investigation notes |
+| ✍️ Family Voice Editor | Clear public-facing writing | Turning research into readable posts or articles |
+| 🛡 Reality Gate | Evidence verification and claim review | Quality gate before publishing |
+| 🧠 Knowledge Smith | System building and documentation | Converting successful work into reusable playbooks and templates |
 
 ## 🎯 Real-World Use Cases
+
 
 ### Scenario 1: Building a Startup MVP
 
