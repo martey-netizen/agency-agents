@@ -62,3 +62,7 @@ scratch/
 notes/
 TODO.md
 NOTES.md
+# Martey ops - do not commit private stuff
+private/
+drafts/
+martey-private/
