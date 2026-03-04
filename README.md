@@ -181,6 +181,7 @@ These agents coordinate structured research, editorial production, and verificat
 | ✍️ Family Voice Editor | Clear public-facing writing | Turning research into readable posts or articles |
 | 🛡 Reality Gate | Evidence verification and claim review | Quality gate before publishing |
 | 🧠 Knowledge Smith | System building and documentation | Converting successful work into reusable playbooks and templates |
+| 📋 Prospect List Builder | Outreach list generation | Building church, school, or nonprofit prospect lists |
 
 ## 🎯 Real-World Use Cases
 
